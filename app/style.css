@@ -1,0 +1,23 @@
+.answer {
+    display: inline-block;
+    border: 1px solid lightgray;
+    padding: 6px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.answer:hover {
+    background: lavender;
+}
+
+.item-expresion {
+    margin-bottom: 10px;
+}
+
+.attempt-true {
+    background: darkseagreen;
+}
+
+.attempt-false {
+    background: lightsalmon;
+}
